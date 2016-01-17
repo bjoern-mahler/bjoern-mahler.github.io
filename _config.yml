@@ -8,11 +8,11 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Agile Requirements
+tagline: or how to deal with agile, requirements from a more technical view
 author :
   name : Björn Mahler
-  email : bjomahler@gmail.com
+  email : bjoern.mahler@web.de
   github : bjoern-mahler
   twitter : bjoern_mahler
 
